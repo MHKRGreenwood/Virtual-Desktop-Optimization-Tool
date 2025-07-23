@@ -53,7 +53,7 @@
         "KeyName": "TaskbarNoNotification",
         "PropertyType": "DWord",
         "PropertyValue": "1",
-        "SetProperty": "True"
+        "SetProperty": "False"
     },
     {
         "HivePath": "HKLM:\\VDOT_TEMP\\SOFTWARE\\Policies\\Microsoft\\Windows\\CloudContent",
@@ -102,7 +102,7 @@
         "KeyName": "NoToastApplicationNotification",
         "PropertyType": "DWord",
         "PropertyValue": "1",
-        "SetProperty": "True"
+        "SetProperty": "False"
     },
     {
         "HivePath": "HKLM:\\VDOT_TEMP\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\PushNotifications",
